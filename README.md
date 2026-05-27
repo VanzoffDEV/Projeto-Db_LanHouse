@@ -14,5 +14,7 @@ Projeto acadêmico desenvolvido na disciplina de Programação e Otimização de
 * MySQL
 * Diagramação de Modelos de Dados (MER/DER)
 
-## 👤 Autor
+## 👤 Autores
 * **Abelardo Vanzoff**
+* **João Pedro**
+* **Leticia de Carvalho**
